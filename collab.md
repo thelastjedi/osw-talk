@@ -1,6 +1,10 @@
 ##Open Source & Women talk attendees
 
 * [Attendee name](https://github.com/thelastjedi/osw-talk "github/twitter/facebook profile")
-
-[Tanya](https://github.com/tsah20)
-
+* [Susmita](https://github.com/hsusmita)
+* [Taneea](https://github.com/TanSA05)
+* [Saumya](https://github.com/Sam1301 "My profile")
+* [Vrinda](http://github/TheChirpyWitch "github")
+* [Sheerin](https://github.com/sheerinaseem)
+* [Milan](https://github.com/sheerinaseem)
+* [Tanya](https://github.com/tsah20)
