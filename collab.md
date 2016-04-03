@@ -10,3 +10,4 @@
 * [Tanya](https://github.com/tsah20)
 * [Anusuya Sukhramani](https://github.com/Anusuya-Buzz4health)
 * [srishti](https://github.com/SrishtiGrover)
+* [Dishant Khanna](http://github.com/DishantK1807/)
